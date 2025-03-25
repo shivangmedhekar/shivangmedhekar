@@ -6,7 +6,7 @@ I'm a passionate Software Engineer with a strong background in full-stack develo
 - 🔭 I’m currently working as a **Lead Software Engineer** at **The KeelWorks Foundation**.
 - 🌱 I’m actively exploring advanced **machine learning** techniques and their applications in web development.
 - 💬 Ask me about front-end technologies, back-end frameworks, or anything related to web development and AI!
-- 📫 How to reach me: [Email](mailto:shivangmedhekar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shivangmedhekar) | [Website](https://www.smedhekar.com)
+- 📫 How to reach me: [Email](mailto:shivangmedhekar@gmail.com) | ![LinkedIn](https://www.linkedin.com/in/shivangmedhekar) | [Website](https://www.smedhekar.com)
 
 ## 💼 Skills
 ### Languages
